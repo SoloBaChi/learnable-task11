@@ -6,15 +6,11 @@ name:{
 type:String,
 required:true,
 unique:true,
-trim:true,
-lowercase:true
 },
 roomType:{
 type:String,
 required:true,
 unique:true,
-trim:true,
-lowercase:true
 },
 price:String,
 });
